@@ -8,6 +8,8 @@ This project focuses on developing a machine learning model to forecast corporat
 
 The first step of our project was the creation of a comprehensive synthetic dataset designed to mimic the weekly cash flow of a real-world organization. Instead of using simple random numbers, we built a data engine that reflects the actual timing and complexity of corporate finance.
 
+[View the full code in the Jupyter Notebook](/Synthetic%20Data/synthetic%20data%20v1.ipynb)
+
 Key features of this dataset include:
 * Diverse Revenue Streams: Multiple inflows with varying levels of predictability.
 * Complex Payroll Cycles: Biweekly payroll inclusive of overtime variability.

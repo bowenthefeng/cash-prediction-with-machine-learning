@@ -2,6 +2,8 @@
 
 This section of our project details the creation of a high-fidelity synthetic dataset designed to mimic the financial rhythms of a real-world organization. This data serves as the training foundation for our machine learning models, providing a controlled yet realistic environment to test cash flow forecasting.
 
+[View the full code in the Jupyter Notebook](./synthetic%20data%20v1.ipynb)
+
 ## Temporal Foundation
 
 We established the structural skeleton of our ledger by creating a 96-week period (approximately 22 months) starting on April 1, 2024. All data points are anchored to a Friday frequency to align with standard weekly business cycles, such as payroll and bank settlements.
